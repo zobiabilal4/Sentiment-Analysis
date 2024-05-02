@@ -34,16 +34,16 @@ understanding of customer sentiments expressed in online product reviews.
 Moreover our model adds a powerful visualization to the product purchase.
 We can get idea about the purchasing impact of the products also.
 - Interactive Dashboards:
-      - Visual representation of sentiment trends for intuitive insights.
+       Visual representation of sentiment trends for intuitive insights.
 - Competitor Benchmarking:
-      - Comparative visualizations for competitive benchmarking.
+      Comparative visualizations for competitive benchmarking.
 - Geographical Insights:
-      - Regional sentiment mapping for targeted marketing strategies.
+      Regional sentiment mapping for targeted marketing strategies.
 - Product Performance Metrics:
-      - Holistic visual metrics summarizing product performance.
+       Holistic visual metrics summarizing product performance.
 - Response Impact Analysis:
-      - Visualizing the impact of seller responses on sentiment trends.
+       Visualizing the impact of seller responses on sentiment trends.
 - Dynamic Data Filters:
-      - Granular analysis through dynamic filters in visualizations.
+       Granular analysis through dynamic filters in visualizations.
 - Forecasting Trends:
-      - Predictive visualizations for proactive decision-making
+       Predictive visualizations for proactive decision-making
