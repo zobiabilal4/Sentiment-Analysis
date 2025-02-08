@@ -1,0 +1,34 @@
+Requirements
+
+1-Web Scraping:
+. Python should be installed.
+. ChromeDriver should be up to date.
+. Selenium library should be installed.
+. Pandas library should be installed.
+
+2-Label Assigning:
+. Import pretrained model "RoBERTa" from Hugging Face.
+
+3-Preprocessing:
+. Pandas library should be installed.
+. Numpy library should be installed.
+. NLTK (Natural Language Toolkit) should be installed.
+. Pickle library should be installed.
+. Scikit-learn library should be installed.
+. Imbalanced-learn (imblearn) library should be installed.
+
+4- Model Training:
+. Logistic Regression
+. Random Forest
+. Gradient Boosting
+. SVM
+. LightGBM
+. Naive Bayes
+. AdaBoost
+5-Frontend
+. Streamlit
+. Matplotlib
+. Seaborn
+
+6-readme.md 
+install extension "Markdown Preview Enhanced" for readme preview
