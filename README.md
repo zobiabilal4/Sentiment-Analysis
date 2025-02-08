@@ -14,16 +14,6 @@ In the realm of Amazon's e-commerce platform, managing the influx of product rev
 # Methdology
 We will generate our own dataset by applying the technique of web scraping on Amazon. For that purpose we will use Selenium. For text classification, we will take the help of TextBlob or any suitable platform.
 
-# Dataset Features
-- P_name :Product Name (Type:String)
-- P_des : Product Description (Type:String)
-- P_price : Product Price (Type:Int)
-- P_availability : Product Instock / Outstock (Type:String)
-- R_username :Reviewr Username (Type:String)
-- P_review : Product Review (Type:String)
-- P_rating : Product Rating (Type:Int)
-- Sentiment : Classify user-generated reviews into categories such as positive, negative, neutral (Type:String)
-
 # Business Scope
 Our project involves designing a robust model that generalizes well across
 different product categories, mitigating biases, and addressing potential
