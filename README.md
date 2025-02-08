@@ -126,7 +126,9 @@ Finally, we built a frontend for our project using **Streamlit**. The Streamlit 
 
 This makes our project accessible and user-friendly. The frontend code is in `streamlit_app.py`.
 
-Here is a preview of the frontend. For complete frontend pictures and videos, visit the `frontend_pics&vid` folder.
+Here is a preview of the frontend. For complete frontend pictures and videos, visit the `frontend_pics&video` folder.
+![Frontend Preview](https://github.com/zobiabilal4/Sentiment-Analysis/blob/main/frontend_pics%26video/frt1.png)
+
 
 ## Future Scope
 This project can be improved and enhanced on a much larger scale. Some suggestions include:
